@@ -1,4 +1,4 @@
-# Rick Perez
+# Richard A. Perez
 
 Android engineer. Kotlin, Jetpack Compose, and native modules when the UI stack is React Native.
 
