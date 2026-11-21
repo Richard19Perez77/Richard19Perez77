@@ -9,10 +9,8 @@ I build production-shaped apps: camera/ML pipelines, BLE, OAuth/OIDC on mobile, 
 ## Featured: games
 
 <p>
-<img src="https://github.com/Richard19Perez77/JS_team_poker/assets/58344001/8b14f8b4-0f2c-4ae8-95df-9af3ca405f16" width="220" alt="Team Poker" />
 <img src="https://github.com/Richard19Perez77/ColorCatch/assets/58344001/f6422b9d-7e91-4af6-b35e-aabf2c343967" width="220" alt="ColorCatch" />
 <img src="https://github.com/Richard19Perez77/KotlinAnimePuzzles/assets/58344001/3ba6e036-6142-4658-aba3-5544ab77fcbf" width="220" alt="KotlinAnimePuzzles" />
-<img src="https://github.com/Richard19Perez77/TimerWithColor/assets/58344001/c814f973-1571-4e4a-a735-7042dd3bdb33" width="220" alt="TimerWithColor" />
 </p>
 
 | Repo | What it is |
