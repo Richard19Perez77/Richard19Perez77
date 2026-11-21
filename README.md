@@ -15,14 +15,14 @@ I build production-shaped apps: camera/ML pipelines, BLE, OAuth/OIDC on mobile, 
 | [ColorCatch](https://github.com/Richard19Perez77/ColorCatch) | Touch-and-move color matching game (Java). |
 | [KotlinAnimePuzzles](https://github.com/Richard19Perez77/KotlinAnimePuzzles) | Anime sliding-puzzle game (Kotlin). |
 | [sprite-pixel](https://github.com/Richard19Perez77/sprite-pixel) | Pixel/sprite drawing game (Java). |
-| [Facebook](https://github.com/Richard19Perez77/Facebook) | Team Poker packaged for Facebook Instant Games. |
+| [AnimeDB](https://github.com/Richard19Perez77/AnimeDB) | Compose, Hilt, Retrofit, MangaDex, clean architecture. |
 
 ## Android and mobile
 
 | Repo | Why it is here |
 | --- | --- |
 | [LabelScanner](https://github.com/Richard19Perez77/LabelScanner) | React Native + CameraX + ML Kit. ROI, barcode/OCR, tests. |
-| [AnimeDB](https://github.com/Richard19Perez77/AnimeDB) | Compose, Hilt, Retrofit, MangaDex, clean architecture. |
+| [Facebook](https://github.com/Richard19Perez77/Facebook) | Team Poker packaged for Facebook Instant Games. |
 | [OAuthOpenID](https://github.com/Richard19Perez77/OAuthOpenID) | Real PKCE + Custom Tabs + ID-token checks. |
 | [ApiUpgrade37](https://github.com/Richard19Perez77/ApiUpgrade37) | Runnable catalog of Android 17 / API 37. |
 
