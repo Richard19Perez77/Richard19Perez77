@@ -17,16 +17,7 @@ I build production-shaped apps: camera/ML pipelines, BLE, OAuth/OIDC on mobile, 
 | [sprite-pixel](https://github.com/Richard19Perez77/sprite-pixel) | Pixel/sprite drawing game (Java). |
 | [AnimeDB](https://github.com/Richard19Perez77/AnimeDB) | Compose, Hilt, Retrofit, MangaDex, clean architecture. |
 
-## Android and mobile
-
-| Repo | Why it is here |
-| --- | --- |
-| [LabelScanner](https://github.com/Richard19Perez77/LabelScanner) | React Native + CameraX + ML Kit. ROI, barcode/OCR, tests. |
-| [Facebook](https://github.com/Richard19Perez77/Facebook) | Team Poker packaged for Facebook Instant Games. |
-| [OAuthOpenID](https://github.com/Richard19Perez77/OAuthOpenID) | Real PKCE + Custom Tabs + ID-token checks. |
-| [ApiUpgrade37](https://github.com/Richard19Perez77/ApiUpgrade37) | Runnable catalog of Android 17 / API 37. |
-
-Also: [Workoutapp](https://github.com/Richard19Perez77/Workoutapp) (BLE), [JetpackSecurityAPI37](https://github.com/Richard19Perez77/JetpackSecurityAPI37), [FinnStock](https://github.com/Richard19Perez77/FinnStock) (MVI), [ColorTimerMaui](https://github.com/Richard19Perez77/ColorTimerMaui) (C# / .NET MAUI), [TimerWithColor](https://github.com/Richard19Perez77/TimerWithColor) (Compose color timer).
+Also: [Workoutapp](https://github.com/Richard19Perez77/Workoutapp) (BLE), [JetpackSecurityAPI37](https://github.com/Richard19Perez77/JetpackSecurityAPI37), [FinnStock](https://github.com/Richard19Perez77/FinnStock) (MVI), [ColorTimerMaui](https://github.com/Richard19Perez77/ColorTimerMaui) (C# / .NET MAUI), [TimerWithColor](https://github.com/Richard19Perez77/TimerWithColor) (Compose color timer), [ApiUpgrade37](https://github.com/Richard19Perez77/ApiUpgrade37) (Android 17 / API 37).
 
 ## Stack
 
